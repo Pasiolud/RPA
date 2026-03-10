@@ -20,4 +20,4 @@ Here's another one:
 
 <img width="1212" height="565" alt="openYtandSearchCrazyFrog" src="https://github.com/user-attachments/assets/df7f2f40-1a20-4ced-8133-7ba7d07dcbae" />
 
-This flow goes to YouTube, writes "crazy frog" for us, and then clicks the search button.
+This flow goes to YouTube, writes "crazy frog", and then clicks the search button.
