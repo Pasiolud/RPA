@@ -2,7 +2,7 @@
 
 This is an RPA project built with Python + React (kinda like Zapier). My main goal is to integrate MCP and AI into it, allowing agents to autonomously create automations down the road. 
 
-I'm also planning to add an AI-powered site scanner feature. For example, if a website changes its CSS classes and breaks the scraping logic, instead of checking and fixing it manually, the AI could scan the DOM, figure out what changed, and tweak the selectors automatically. I'm currently working on it, so it's still a bit clunky for now, but it works!
+I'm also planning to add an AI-powered site scanner feature. For example, if a website changes its CSS classes and breaks the scraping logic, instead of checking and fixing it manually, the AI could scan the DOM, figure out what changed, and tweak the selectors automatically. I'm currently working on it, so it's still a bit clunky for now, but it works (although not in this version).
 
 Fun fact: The React frontend was actually stripped from my older attempt at building this project in Rust. Why? At the beginning, I wanted to build a native app, but I quickly realized I didn't want to learn Rust from scratch just yet, so I pivoted to Python for the backend.
 
